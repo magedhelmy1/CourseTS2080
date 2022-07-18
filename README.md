@@ -1,26 +1,31 @@
-# Download Python 3.10.5
+# Course content for Software Modelling and Architectures.
+
+
+## Download Python 3.10.5
 
 - [Download here](https://www.python.org/downloads/release/python-3105/)
 
-# Download Anaconda Navigator
+## Download Anaconda Navigator
 
 - [Download here](https://www.anaconda.com/products/distribution)
 
 
-# Download Visual Studio Code
+## Download Visual Studio Code
 
 - [Download here](https://code.visuaalstudio.com/download)
 
 
-# Download DrawIO
+## Download DrawIO
 
 - [Download here](https://github.com/jgraph/drawio-desktop/releases)
 
 
-# Create Github account
+## Create Github account
 
 1. [Download here](https://github.com/)
 2. [Fork this project](https://github.com/magedhelmy1/CourseTS2080)
+
+
 
 # How to take notes during the course using MarkDown language?
 
