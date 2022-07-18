@@ -1,5 +1,28 @@
+# Download Python 3.10.5
 
-# MD Syntax
+- [Download here](https://www.python.org/downloads/release/python-3105/)
+
+# Download Anaconda Navigator
+
+- [Download here](https://www.anaconda.com/products/distribution)
+
+
+# Download Visual Studio Code
+
+- [Download here](https://code.visuaalstudio.com/download)
+
+
+# Download DrawIO
+
+- [Download here](https://github.com/jgraph/drawio-desktop/releases)
+
+
+# Create Github account
+
+1. [Download here](https://github.com/)
+2. [Fork this project](https://github.com/magedhelmy1/CourseTS2080)
+
+# How to take notes during the course using MarkDown language?
 
 ## H2
 
@@ -26,16 +49,3 @@ Unordered List
 Code `code`
 
 Link [title](https://www.example.com)
-
-
-# Download Anaconda Navigator
-
-# Download Python
-
-# Download Visual Studio Code
-
-# Download DrawIO
-
-# Create Github account
-
-1- Fork this project
