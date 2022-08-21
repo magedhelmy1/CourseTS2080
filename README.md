@@ -10,11 +10,6 @@
 - [Download here](https://www.anaconda.com/products/distribution)
 
 
-## Download Visual Studio Code
-
-- [Download here](https://code.visuaalstudio.com/download)
-
-
 ## Download DrawIO
 
 - [Download here](https://github.com/jgraph/drawio-desktop/releases)
