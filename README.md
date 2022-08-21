@@ -1,9 +1,11 @@
 # Course content for Software Modelling and Architectures.
 
-
-## 1. Download Anaconda Navigator and Python 3.10.5
-
+# Download the following before 26th of August, 2022 (Do not install - we will do it in class)
+## 1. Download Anaconda Navigator
 - [Download here](https://www.anaconda.com/products/distribution)
+
+## 2. Download Python 3.10.5
+
 - [Download here](https://www.python.org/downloads/release/python-3105/)
 
 
