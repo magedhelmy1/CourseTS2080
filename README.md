@@ -1,7 +1,7 @@
 # Course content for Software Modelling and Architectures.
 
-
-## Download Python 3.10.5
+# Before 26th of August, 2022:
+## 1. Download Python 3.10.5
 
 - [Download here](https://www.python.org/downloads/release/python-3105/)
 
@@ -10,12 +10,12 @@
 - [Download here](https://www.anaconda.com/products/distribution)
 
 
-## Download DrawIO
+## 2. Download DrawIO
 
 - [Download here](https://github.com/jgraph/drawio-desktop/releases)
 
 
-## Create Github account
+## 3. Create Github account
 
 1. [Create Here](https://github.com/)
 2. [Fork this project](https://github.com/magedhelmy1/CourseTS2080)
