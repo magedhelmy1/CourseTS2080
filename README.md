@@ -28,7 +28,7 @@
 - [Reading 1: OOP Concepts](https://web.stanford.edu/class/cs193j/handouts_old/03OOPConcepts.pdf)
 - [Reading 2: Basic OOP Concepts](https://nios.ac.in/media/documents/330srsec/online_course_material_330/Theory/Lesson_13.pdf)
 
-### Books (Selected chapter announced during the class)
+### Books
 
 - [Book 1: Fundamentals of Software Architecture](https://bibsys-almaprimo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=TN_cdi_safari_books_v2_9780132942799&context=PC&vid=HIT&lang=no_NO&search_scope=default_scope&adaptor=primo_central_multiple_fe&tab=default_tab&query=any,contains,Software%20Architecture%20in%20Practice)
 - [Book 2: Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://bibsys-almaprimo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=BIBSYS_ILS71593942610002201&context=L&vid=HIT&lang=no_NO&search_scope=default_scope&adaptor=Local%20Search%20Engine&isFrbr=true&tab=default_tab&query=any,contains,Clean%20Architecture:%20A%20Craftsman%27s%20Guide%20to%20Software%20Structure%20and%20Design)
@@ -36,7 +36,7 @@
 - [Book 4: The Unified Modeling Language Reference Manual ](https://bibsys-almaprimo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=TN_cdi_safari_books_v2_0321245628&context=PC&vid=HIT&lang=no_NO&search_scope=default_scope&adaptor=primo_central_multiple_fe&tab=default_tab&query=any,contains,the%20unified%20modeling%20language%20reference%20manual&offset=0)
 
 
-The course plan is as follows:
+### The course plan is as follows:
 
 1. Object oriented basics
 	- Encapsulation
