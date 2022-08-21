@@ -5,17 +5,17 @@
 
 - [Download here](https://www.python.org/downloads/release/python-3105/)
 
-## Download Anaconda Navigator
+## 2. Download Anaconda Navigator
 
 - [Download here](https://www.anaconda.com/products/distribution)
 
 
-## 2. Download DrawIO
+## 3. Download DrawIO
 
 - [Download here](https://github.com/jgraph/drawio-desktop/releases)
 
 
-## 3. Create Github account
+## 4. Create Github account
 
 1. [Create Here](https://github.com/)
 2. [Fork this project](https://github.com/magedhelmy1/CourseTS2080)
