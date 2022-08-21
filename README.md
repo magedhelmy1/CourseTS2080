@@ -22,7 +22,7 @@
 
 ## Create Github account
 
-1. [Download here](https://github.com/)
+1. [Create Here](https://github.com/)
 2. [Fork this project](https://github.com/magedhelmy1/CourseTS2080)
 
 
