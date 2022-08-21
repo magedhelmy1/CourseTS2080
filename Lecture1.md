@@ -2,10 +2,6 @@
 
 Answer here
 
-## What is object oriented programming?
-
-Answer here
-
 ## What are the basic concepts of OOP?
 
 Answer here
