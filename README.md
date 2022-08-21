@@ -27,7 +27,6 @@
 ### Short .pdfs
 - [Reading 1: OOP Concepts](https://web.stanford.edu/class/cs193j/handouts_old/03OOPConcepts.pdf)
 - [Reading 2: Basic OOP Concepts](https://nios.ac.in/media/documents/330srsec/online_course_material_330/Theory/Lesson_13.pdf)
-- [Reading 3: Selected Chapters](https://personal.utdallas.edu/~chung/Fujitsu/UML_2.0/Rumbaugh--UML_2.0_Reference_CD.pdf)
 
 ### Books (Selected chapter announced during the class)
 
