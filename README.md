@@ -26,10 +26,10 @@
 The course plan is as follows:
 
 1. Object oriented basics
-    1.1 Encapsulation
-    1.2 Abstraction
-    1.3 Inheritance
-    1.4 Polymorphism
+	- Encapsulation
+ 	- Abstraction
+	- Inheritance
+	- Polymorphism
 2. OO Analysis and Design
 3. UML
 4. Use case diagrams
