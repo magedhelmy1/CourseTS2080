@@ -1,6 +1,6 @@
 # Course content for Software Modelling and Architectures.
 
-## Download the following before 26th of August, 2022 (Do not install - we will do it in class)
+### Download the following before 26th of August, 2022 (Do not install - we will do it in class)
 ## 1. Download Anaconda Navigator
 - [Download here](https://www.anaconda.com/products/distribution)
 
