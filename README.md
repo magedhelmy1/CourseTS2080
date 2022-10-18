@@ -49,32 +49,6 @@
 6. Sequence diagrams
 7. Activity diagrams
 8. Object-oriented design case studies
-9. System design basics
-10. System design fundamentals 
-	- Client Server Model
-	- Network Protocols
-	- Storage
-	- Types of databases
-	- Replication and Sharding
-	- Latency and Throughput
-	- Availability
-	- Caching
-	- Proxies
-	- Local balancers
-	- Logging and monitoring
-	- Hashing
-	- Leader election
-	- Peer-to-peer networks
-	- Configuration file
-	- Rate limiter
-	- Publish/Subscribe patterns
-	- Mapreduce
-	- Security and HTTPS
-	- CAP Theorem
-	- API Design
-11. A framework for System Design
-12. Back-of-the-envelope Estimation
-
 
 
 # How to take notes during the course using MarkDown language?
